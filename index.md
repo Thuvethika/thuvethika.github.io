@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Thuvethika  
 **MSc Data Science (Distinction, University of Chester)** | Former Software Engineer (~2 years) | Python, SQL, Machine Learning  
 
-I combine a strong foundation in **software engineering** with advanced **data science expertise**. Skilled in predictive analytics, machine learning, and statistical modelling, I enjoy building data-driven solutions that deliver measurable impact. Currently seeking a **1-year industry placement in the UK** to apply my skills in real-world business challenges.  
+MSc Data Science postgraduate (Distinction, University of Chester) with nearly two years of professional experience as a Software 
+Engineer. Skilled in Python, SQL, and visualization tools including Power BI and Seaborn, with expertise in predictive analytics, statistical 
+modelling, and machine learning. Experienced in delivering actionable insights through data analysis, dashboard development, and 
+reporting. Strong technical and interpersonal skills, with a proven ability to collaborate in cross-functional teams and Agile environments. 
+Currently seeking industry placement opportunities in the UK to apply analytical and development skills to real-world business challenges.   
 
 ---
 
